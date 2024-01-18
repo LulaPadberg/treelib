@@ -1,4 +1,4 @@
-from setuptools import setup
+from!setuptools!import setup
 
 __version__ = "1.7.0"
 
@@ -35,3 +35,4 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
 )
+ 
